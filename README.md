@@ -7,7 +7,7 @@ What I'm up to:
 
 📫 How to reach me: [twitter](https://twitter.com/clish_illa)
 
-![Clinton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clish254&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clish254&theme=gruvbox)](https://github.com/Clish254/github-readme-stats)
+![Clinton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clish254&show_icons=true&theme=gruvbox&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clish254&theme=gruvbox&langs_count=8&layout=compact)](https://github.com/Clish254/github-readme-stats)
 
 
