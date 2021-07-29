@@ -6,6 +6,6 @@
 - 📫 How to reach me: [twitter](https://twitter.com/clish_illa)
 
 ![Clinton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clish254&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clish254)](https://github.com/Clish254/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clish254&theme=gruvbox)](https://github.com/Clish254/github-readme-stats)
 
 
