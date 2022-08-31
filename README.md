@@ -4,7 +4,7 @@ I'm a fullstack developer mainly working with JavaScript(MERN stack).
 What I'm up to:
 - 🔭 Currenlty working on exciting projects at early stage startups.
 - 🌱 Learning golang and solidity.
-- 👯 Looking to collaborate on golang and blockchain(smart contracts) projects.
+- 👯 Looking to collaborate on rust and blockchain(smart contracts) projects.
 
 📫 How to reach me: [twitter](https://twitter.com/clish_illa)
 
