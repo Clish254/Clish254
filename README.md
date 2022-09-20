@@ -2,8 +2,8 @@
 I'm a fullstack developer mainly working with JavaScript(MERN stack) and specialized in backend development with node.js.
 
 What I'm up to:
-- 🌱 Learning rust and solidity.
-- 👯 Looking to collaborate on rust and blockchain(smart contracts) projects.
+- 🌱 Learning rust.
+- 👯 Looking to collaborate on rust and blockchain projects.
 
 📫 How to reach me: [twitter](https://twitter.com/clish_illa)
 
