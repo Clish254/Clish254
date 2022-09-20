@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Clinton Illa
-I'm a fullstack developer mainly working with JavaScript(MERN stack).
+I'm a fullstack developer mainly working with JavaScript(MERN stack) and specialized in backend development with node.js.
 
 What I'm up to:
 - 🌱 Learning rust and solidity.
