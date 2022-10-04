@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Clinton Illa
-I'm a fullstack developer mainly working with JavaScript(MERN stack) and specialized in backend development with node.js.
+I'm a fullstack developer mainly working with the MERN stack and specialized in backend development.
 
 What I'm up to:
-- 🌱 Learning rust.
+- 🌱 Learning and working on personal projects with rust.
 - 👯 Looking to collaborate on rust and blockchain projects.
 
 📫 How to reach me: [twitter](https://twitter.com/clish_illa)
