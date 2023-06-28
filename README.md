@@ -2,8 +2,7 @@
 I'm a fullstack developer mainly working with the MERN stack and specialized in backend development.
 
 What I'm up to:
-- 🌱 Learning and working on personal projects with rust.
-- 👯 Looking to collaborate on rust and blockchain projects.
+- Looking to collaborate on rust and blockchain development projects.
 
 📫 How to reach me: [twitter](https://twitter.com/clish_illa)
 
