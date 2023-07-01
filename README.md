@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Clinton Illa
+### Hi there 👋 I'm Clinton
 I'm a fullstack developer mainly working with the MERN stack and specialized in backend development.
 
 What I'm up to:
