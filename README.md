@@ -1,9 +1,6 @@
 ### Hi there 👋 I'm Clinton
 I'm a fullstack developer mainly working with the MERN stack and specialized in backend development.
 
-What I'm up to:
-- Looking to collaborate on rust and blockchain development projects.
-
 📫 How to reach me: [twitter](https://twitter.com/clish_illa)
 
 ![Clinton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clish254&show_icons=true&theme=gruvbox&count_private=true)
