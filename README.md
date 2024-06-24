@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Clinton
-I'm a fullstack developer mainly working with the MERN stack and specialized in backend development.
+I'm a fullstack developer mainly working with the MERN stack and Rust.
 
 📫 How to reach me: [twitter](https://twitter.com/clish_illa)
 
