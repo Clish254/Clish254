@@ -1,12 +1,11 @@
 ### Hi there 👋 I'm Clinton
-I'm a fullstack developer mainly working with the MERN stack and Rust.
-I currently work as a senior blockchain engineer helping projects build on Solana.
+I'm a fullstack developer mainly working with Typescript and Rust.
+I currently work as a senior fullstack blockchain engineer helping projects build on Solana.
 
 Interests:
 - Distributed systems
-- Smart contracts
-- WebRTC
-- LLMs
+- Blockchain
+- AI Agents
 
 
 📫 How to reach me: [twitter](https://twitter.com/clish_illa)
