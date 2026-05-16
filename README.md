@@ -4,7 +4,6 @@ I currently work as a senior fullstack blockchain engineer helping projects buil
 
 Interests:
 - Distributed systems
-- Blockchain
 - AI Agents
 
 
